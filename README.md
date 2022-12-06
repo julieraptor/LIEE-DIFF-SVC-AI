@@ -1,8 +1,14 @@
 # LIEE-DIFF-SVC-AI
-Voice model for DIFF-SVC by julieraptor
+<i> **L**earning and **I**nference **E**xampl**E** Voice model for DIFF-SVC by julieraptor</i>
 
 Thank you for using LIEE DIFF-SVC AI! Please be sure to tag me in anything you make with this voice model.
 If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your voice model.
+
+<p align="center">
+<img src ="https://utauraptor.carrd.co/assets/images/image02.jpg" height="600" />
+<br>
+<i>LIEE DIFF-SVC AI Official Art by julieraptor</i>
+</p>
 
 # 【NOTES】 
 ### Character Details

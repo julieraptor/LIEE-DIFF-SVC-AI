@@ -64,13 +64,18 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
  - Criminal or illegal content 
  - Explicit underage sexual content 
  - Bigotry and hateful content
+ 
+ YOU MUST NOT USE THIS VOICE MODEL TO IMPERSONATE THE VOICE PROVIDER AND CAUSE HARM TO THEM OR OTHERS IN ANY WAY.
 
 ### Character and Artwork
 
- - Published work using the voice model may or may not include visual depictions of the voice model character.
-  -    Artwork does not need to depict the voice model character. This voice model can be used in conjunction with artwork of other characters.
-  -   Existing artwork of the voice model character cannot be used without prior permission from the individual artists.
-   - Derivatives and heavily-inspired characters are prohibited.
+Published work using the voice model may or may not include visual depictions of the voice model character.
+
+Artwork does not need to depict the voice model character. This voice model can be used in conjunction with artwork of other characters.
+
+Existing artwork of the voice model character cannot be used without prior permission from the individual artists.
+
+Derivatives and heavily-inspired characters are prohibited.
 
 ### Commercial Use
 Contact the author for individual approval to use this voice model commercially.

@@ -1,5 +1,6 @@
 # LIEE-DIFF-SVC-AI
 Voice model for DIFF-SVC by julieraptor
+
 Thank you for using LIEE DIFF-SVC AI! Please be sure to tag me in anything you make with this voice model.
 If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your voice model.
 
@@ -17,14 +18,14 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 **LIEE DIFF-SVC AI** is a commercially mass-produced android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing.
 
 ### Training Attributes
-**24kHz model:**
+**24kHz model @ 200k steps:**
  - **Voice provider singing:** 35:56
 - **Voice provider speaking:** 12:02
  - **UTAU renders:** 28:14 
 - **UTAU voice data:** 1:59:40
 - **Total:** 3:15:33
 
-**44.1kHz model:**
+**44.1kHz model @ [number] steps:**
  - **Voice provider singing:** 35:56
 - **Voice provider speaking:** 12:02
  - **UTAU renders:** TBD

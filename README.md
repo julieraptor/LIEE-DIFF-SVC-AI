@@ -7,12 +7,19 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 # 【NOTES】 
 ### Character Details
 **Full name:** LIEE DIFF-SVC AI - **L**earning and **I**nference **E**xampl**E**
+
 **Age:** Unknown (Adult)
+
 **Gender:** Nonbinary
+
 **Pronouns:** they/them, he/him, she/her
+
 **Ethnicity:** Filipino
+
 **Height:** 5'4 (1'62m)
+
 **Hair color:** Dirty blond + blue accents
+
 **Eye color:** Blue
 
 **LIEE DIFF-SVC AI** is a commercially mass-produced android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing.

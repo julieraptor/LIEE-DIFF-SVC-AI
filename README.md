@@ -28,7 +28,7 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 
 **Eye color:** Blue
 
-**LIEE DIFF-SVC AI** is a commercially mass-produced android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing.
+**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing.
 
 ### Training Attributes
 **24kHz model @ 200k steps:**

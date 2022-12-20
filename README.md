@@ -38,7 +38,7 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 - **UTAU voice data:** 1:59:40
 - **Total:** 3:15:33
 
-**44.1kHz model @ [number] steps:**
+**44.1kHz model @ 600k steps:**
  - **Voice provider singing:** 43:26
 - **Voice provider speaking:** 12:02
  - **UTAU renders:** 1:02:38

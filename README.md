@@ -10,6 +10,10 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 <i>LIEE DIFF-SVC AI Official Art by julieraptor</i>
 </p>
 
+# 【SAMPLE】 
+
+https://user-images.githubusercontent.com/42128030/209483241-54c340aa-1961-4f05-b28d-a6a55b33ea2d.mp4
+
 # 【NOTES】 
 ### Character Details
 **Full name:** LIEE DIFF-SVC AI - **L**earning and **I**nference **E**xampl**E**

@@ -13,7 +13,7 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 
 # 【SAMPLE】 
 
-https://user-images.githubusercontent.com/42128030/209483241-54c340aa-1961-4f05-b28d-a6a55b33ea2d.mp4
+https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-9c63-60ed3545948d.mp4
 
 # 【NOTES】 
 ### Character Details

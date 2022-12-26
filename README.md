@@ -5,7 +5,7 @@ Thank you for using LIEE DIFF-SVC AI! Please be sure to tag me in anything you m
 If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your voice model.
 
 <p align="center">
-<img src ="https://utauraptor.carrd.co/assets/images/image02.jpg" height="600" />
+<img src ="https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png" height="600" />
 <img src= "https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC_V2.png" height="600"> 
 <br>
 <i>LIEE DIFF-SVC AI Official Art by julieraptor</i>

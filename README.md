@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-
 
 **Eye color:** Blue
 
-**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing.
+**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing. Some have appeared as idols and actors in TV and movies.
 
 ### Training Attributes
 **24kHz model @ 200k steps:**
@@ -80,7 +80,7 @@ Artwork does not need to depict the voice model character. This voice model can 
 
 Existing artwork of the voice model character cannot be used without prior permission from the individual artists.
 
-Derivatives and heavily-inspired characters are prohibited.
+Derivatives and heavily-inspired characters are prohibited. (Inspired designs must be credited to Julieraptor.)
 
 ### Commercial Use
 Contact the author for individual approval to use this voice model commercially.
@@ -99,6 +99,9 @@ You are free to share rendered singing vocals created with this voice model.
 You are allowed to use this model for pretraining.
 
 If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your voice model.
+
+Do not release a model for pre-training other models if it has already been pre-trained with LIEE.
+
 
 ### Disclaimer
 Julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voice model or character.

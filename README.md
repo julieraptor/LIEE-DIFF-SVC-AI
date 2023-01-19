@@ -102,6 +102,7 @@ If you used this model for pre-training, **please indicate that you used LIEE DI
 
 Do not release a model for pre-training other models if it has already been pre-trained with LIEE.
 
+Do not release a model pre-trained with LIEE that is intended to recreate the voice of a celebrity, copyrighted fictional character, or otherwise public figure. (Showcasing inferenced examples is OK.)
 
 ### Disclaimer
 Julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voice model or character.

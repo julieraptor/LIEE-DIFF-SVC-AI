@@ -94,6 +94,8 @@ You cannot use this voice model in any other singing synthesizer. Please contact
 
 ### Redistribution
 
+Do not redistribute any part of this voice model. Link to this page to show where to download LIEE DIFF-SVC AI.
+
 You are free to share rendered singing vocals created with this voice model.
 
 You are allowed to use this model for pretraining.

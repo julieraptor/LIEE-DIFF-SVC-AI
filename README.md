@@ -62,15 +62,16 @@ https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-
 
  - You are free to create sexual content. 
  - You are free to create violent content. 
- - Do not create political content. 
- - You are free to create religious content.
+ - Do not create political content.
+ - Do not create religious content.
+
 
 **The following types of content are unconditionally prohibited:**
  - Criminal or illegal content 
  - Explicit underage sexual content 
  - Bigotry and hateful content
  
- YOU MUST NOT USE THIS VOICE MODEL TO IMPERSONATE THE VOICE PROVIDER AND CAUSE HARM TO THEM OR OTHERS IN ANY WAY.
+ YOU MUST NOT USE THIS VOICE MODEL TO IMPERSONATE THE VOICE PROVIDER AND/OR CAUSE HARM TO THEM OR OTHERS IN ANY WAY.
 
 ### Character and Artwork
 

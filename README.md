@@ -108,6 +108,8 @@ Do not release a model for pre-training other models if it has already been pre-
 Do not release a model pre-trained with LIEE that is intended to recreate the voice of a celebrity, paid vocal synthesis voice, copyrighted fictional character, or otherwise public figure.
 (Showcasing inferenced examples is OK.) Be sure to indicate you pre-trained with LIEE, and link to this GitHub page.
 
+Absolutely DO NOT sell models when you used LIEE for pre-training.
+
 If sharing a voice model of an existing vocal synthesis character that is distributed for free (e.g. Kasane Teto of UTAU, etc), please indicate that you used LIEE for pre-train in the credits, and link to this GitHub page.
 
 ### Disclaimer

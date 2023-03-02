@@ -33,7 +33,9 @@ https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-
 
 **Eye color:** Blue
 
-**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing. Some have appeared as idols and actors in TV and movies.
+**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing. Some have appeared as idols and actors in TV and movies. 
+
+They were created as a way to preserve the voice and talents of the celebrity,  Velirio Eden, whose stage name was also "LIEE".
 
 ### Training Attributes
 **24kHz model @ 200k steps:**

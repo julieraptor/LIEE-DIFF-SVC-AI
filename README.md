@@ -3,6 +3,9 @@
 
 Thank you for using LIEE DIFF-SVC AI! Please be sure to tag me in anything you make with this voice model.
 If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your voice model.
+<p>
+To download, navigate to **Releases** on the right-hand side and choose the file you wish to download.
+
 
 <p align="center">
 <img src ="https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png" height="600" />

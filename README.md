@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-
 
 **Ethnicity:** Filipino
 
-**Height:** 5'4 (1'62m)
+**Height:** 5'8 (1'72m)
 
 **Hair color:** Dirty blond + blue accents (V1) / Navy blue hair, gold accents (V2)
 

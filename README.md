@@ -18,6 +18,9 @@ To download, navigate to **Releases** on the right-hand side and choose the file
 
 https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-9c63-60ed3545948d.mp4
 
+Release video: [https://www.youtube.com/watch?v=sLk9vJpRg4A](https://www.youtube.com/watch?v=sLk9vJpRg4A)
+
+
 # 【NOTES】 
 ### Character Details
 **Full name:** LIEE DIFF-SVC AI - **L**earning and **I**nference **E**xampl**E**
